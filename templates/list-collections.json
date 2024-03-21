@@ -1,1 +1,150 @@
-{"sections":{"featured_product_ATdyeM":{"type":"featured-product","blocks":{"text_tGjVwc":{"type":"text","settings":{"text":"{{ section.settings.product.vendor }}","text_style":"uppercase"}},"title_GpbKni":{"type":"title","settings":{"heading_size":"h1"}},"price_ekWyWB":{"type":"price","settings":{}},"variant_picker_tfC7fd":{"type":"variant_picker","settings":{"picker_type":"button","swatch_shape":"circle"}},"quantity_selector_J4VdP3":{"type":"quantity_selector","settings":{}},"buy_buttons_V4UDfP":{"type":"buy_buttons","settings":{"show_dynamic_checkout":true,"show_gift_card_recipient":true}},"share_W7w4F4":{"type":"share","settings":{"share_label":"Share"}}},"block_order":["text_tGjVwc","title_GpbKni","price_ekWyWB","variant_picker_tfC7fd","quantity_selector_J4VdP3","buy_buttons_V4UDfP","share_W7w4F4"],"settings":{"product":"","color_scheme":"","secondary_background":false,"media_size":"medium","constrain_to_viewport":true,"media_fit":"contain","media_position":"left","image_zoom":"lightbox","hide_variants":false,"enable_video_looping":false,"padding_top":36,"padding_bottom":36}},"main":{"type":"main-list-collections","settings":{"title":"Collections","sort":"alphabetical","image_ratio":"square","columns_desktop":3,"columns_mobile":"2"}},"multicolumn_mjrdXT":{"type":"multicolumn","blocks":{"column_Ya4rxf":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"column_Fh7jLV":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}},"column_t9iQGH":{"type":"column","settings":{"title":"Column","text":"<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>","link_label":"","link":""}}},"block_order":["column_Ya4rxf","column_Fh7jLV","column_t9iQGH"],"settings":{"title":"Multicolumn","heading_size":"h1","image_width":"full","image_ratio":"adapt","columns_desktop":3,"column_alignment":"left","background_style":"primary","button_label":"Button label","button_link":"","color_scheme":"","columns_mobile":"1","swipe_on_mobile":false,"padding_top":36,"padding_bottom":36}},"17099214308b32bff0":{"type":"apps","settings":{"include_margins":true}}},"order":["featured_product_ATdyeM","main","multicolumn_mjrdXT","17099214308b32bff0"]}
+{
+  "sections": {
+    "featured_product_ATdyeM": {
+      "type": "featured-product",
+      "blocks": {
+        "text_tGjVwc": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_GpbKni": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_ekWyWB": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_tfC7fd": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_J4VdP3": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_V4UDfP": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_W7w4F4": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_tGjVwc",
+        "title_GpbKni",
+        "price_ekWyWB",
+        "variant_picker_tfC7fd",
+        "quantity_selector_J4VdP3",
+        "buy_buttons_V4UDfP",
+        "share_W7w4F4"
+      ],
+      "settings": {
+        "product": "",
+        "color_scheme": "",
+        "secondary_background": true,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-list-collections",
+      "settings": {
+        "title": "Collections",
+        "sort": "alphabetical",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
+    },
+    "multicolumn_mjrdXT": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_Ya4rxf": {
+          "type": "column",
+          "settings": {
+            "title": "Smart Deals",
+            "text": "<p>Where value meets virtue, and savings shine! Our carefully curated selection offers you more than just products; it’s a smart investment in both your wallet and the world. Discover deals that dazzle with economy and eco-friendliness, handpicked to ensure you make choices that are not only cost-effective but also kind to our planet. Shop with us and experience the joy of smart shopping, where every purchase is a step towards a sustainable future. 🌱💡<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_Fh7jLV": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_t9iQGH": {
+          "type": "column",
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_Ya4rxf",
+        "column_Fh7jLV",
+        "column_t9iQGH"
+      ],
+      "settings": {
+        "title": "The Future of Online shopping",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "17099214308b32bff0": {
+      "type": "apps",
+      "settings": {
+        "include_margins": true
+      }
+    }
+  },
+  "order": [
+    "featured_product_ATdyeM",
+    "main",
+    "multicolumn_mjrdXT",
+    "17099214308b32bff0"
+  ]
+}
