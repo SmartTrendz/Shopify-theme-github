@@ -122,6 +122,77 @@
         "padding_bottom": 36
       }
     },
+    "featured_product_mBqhnt": {
+      "type": "featured-product",
+      "blocks": {
+        "text_z9htz9": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_gpxwg9": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_MJAjWa": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_YV4ta8": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_BwbPGx": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_YMrt3W": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_XwzniF": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_z9htz9",
+        "title_gpxwg9",
+        "price_MJAjWa",
+        "variant_picker_YV4ta8",
+        "quantity_selector_BwbPGx",
+        "buy_buttons_YMrt3W",
+        "share_XwzniF"
+      ],
+      "settings": {
+        "product": "v728-546573-aventus-by-creed-eau-de-parfum-spray-33-oz-men",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "video_F3fRw3": {
       "type": "video",
       "settings": {
@@ -137,34 +208,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_collection_CTKNrK": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "Featured Trendz",
-        "heading_size": "h1",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "",
-        "products_to_show": 4,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "solid",
-        "enable_desktop_slider": false,
-        "color_scheme": "",
-        "image_ratio": "adapt",
-        "image_shape": "default",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "collapsible_content_YxckqP": {
       "type": "collapsible-content",
       "blocks": {
@@ -172,7 +215,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
+            "icon": "price_tag",
             "row_content": "",
             "page": ""
           }
@@ -181,7 +224,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
+            "icon": "price_tag",
             "row_content": "",
             "page": ""
           }
@@ -190,7 +233,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
+            "icon": "price_tag",
             "row_content": "",
             "page": ""
           }
@@ -199,7 +242,7 @@
           "type": "collapsible_row",
           "settings": {
             "heading": "Collapsible row",
-            "icon": "check_mark",
+            "icon": "price_tag",
             "row_content": "",
             "page": ""
           }
@@ -396,8 +439,8 @@
     "image_banner",
     "rich_text_6Bagak",
     "collection_list_RKAM6e",
+    "featured_product_mBqhnt",
     "video_F3fRw3",
-    "featured_collection_CTKNrK",
     "collapsible_content_YxckqP",
     "multicolumn_RMrphw",
     "collapsible_content_b3V3B8",
