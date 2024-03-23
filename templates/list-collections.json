@@ -135,6 +135,60 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_qmaCm6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_HiLg6n": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Smart Deals<\/strong>",
+            "text": "<p>Where value meets virtue, and savings shine! Our carefully curated selection offers you more than just products; it’s a smart investment in both your wallet and the world. Discover deals that dazzle with economy and eco-friendliness, handpicked to ensure you make choices that are not only cost-effective but also kind to our planet. Shop with us and experience the joy of smart shopping, where every purchase is a step towards a sustainable future. 🌱💡<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_jP8Knj": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ST-Women-portraitsizesmaller.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_cQaxhA": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Personalized Convenience:<\/strong>",
+            "text": "<p>We believe shopping should be as unique as you are. That’s why we’ve crafted a shopping experience that’s tailored to your preferences, offering unparalleled convenience at every turn. Our commitment to understanding and meeting your needs means we go the extra mile to ensure an efficient and personalized journey through our store. With us, every visit is more than a transaction—it’s a seamless adventure in finding exactly what you need, exactly when you need it.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_HiLg6n",
+        "column_jP8Knj",
+        "column_cQaxhA"
+      ],
+      "settings": {
+        "title": "The Future of Online shopping",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "shopify:\/\/collections",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "17099214308b32bff0": {
       "type": "apps",
       "settings": {
@@ -146,6 +200,7 @@
     "featured_product_ATdyeM",
     "main",
     "multicolumn_mjrdXT",
+    "multicolumn_qmaCm6",
     "17099214308b32bff0"
   ]
 }
