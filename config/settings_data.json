@@ -67,12 +67,12 @@
     "blog_card_shadow_horizontal_offset": 0,
     "blog_card_shadow_vertical_offset": 4,
     "blog_card_shadow_blur": 5,
-    "text_boxes_border_thickness": 0,
-    "text_boxes_border_opacity": 10,
-    "text_boxes_radius": 0,
-    "text_boxes_shadow_opacity": 0,
-    "text_boxes_shadow_horizontal_offset": 0,
-    "text_boxes_shadow_vertical_offset": 4,
+    "text_boxes_border_thickness": 5,
+    "text_boxes_border_opacity": 20,
+    "text_boxes_radius": 34,
+    "text_boxes_shadow_opacity": 40,
+    "text_boxes_shadow_horizontal_offset": 8,
+    "text_boxes_shadow_vertical_offset": -8,
     "text_boxes_shadow_blur": 5,
     "media_border_thickness": 1,
     "media_border_opacity": 5,
@@ -171,6 +171,12 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
+        }
+      },
+      "4918592460924562117": {
+        "type": "shopify:\/\/apps\/optimonk-popup-cro-a-b-test\/blocks\/app-embed\/0b488be1-fc0a-4fe6-8793-f2bef383dba8",
+        "disabled": false,
+        "settings": {
         }
       }
     },
