@@ -40,6 +40,74 @@
         "show_text_below": false
       }
     },
+    "multirow_hzdp79": {
+      "type": "multirow",
+      "blocks": {
+        "row_PJVNkc": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1121198204283.jpg",
+            "caption": "Caption",
+            "heading": "",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_K3BPiD": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/1121198204283.jpg",
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_H9pyBP": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "row_kQRPKk": {
+          "type": "row",
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "row_PJVNkc",
+        "row_K3BPiD",
+        "row_H9pyBP",
+        "row_kQRPKk"
+      ],
+      "settings": {
+        "image_height": "adapt",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "",
+        "row_color_scheme": "",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "rich_text_6Bagak": {
       "type": "rich-text",
       "blocks": {
@@ -271,6 +339,7 @@
   },
   "order": [
     "image_banner",
+    "multirow_hzdp79",
     "rich_text_6Bagak",
     "collection_list_RKAM6e",
     "featured_product_mBqhnt",
