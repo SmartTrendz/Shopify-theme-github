@@ -153,29 +153,36 @@
     "collection_list_RKAM6e": {
       "type": "collection-list",
       "blocks": {
-        "featured_collection_gb79xr": {
-          "type": "featured_collection",
-          "settings": {
-            "collection": "2024s-womens-health-and-beauty-collection"
-          }
-        },
         "featured_collection_EUYT4V": {
           "type": "featured_collection",
           "settings": {
             "collection": "appliances"
           }
         },
-        "featured_collection_wLhzcB": {
+        "featured_collection_VindwP": {
           "type": "featured_collection",
           "settings": {
-            "collection": "fragrances"
+            "collection": ""
+          }
+        },
+        "featured_collection_CnFTGM": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
+          }
+        },
+        "featured_collection_hxpNgN": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": ""
           }
         }
       },
       "block_order": [
-        "featured_collection_gb79xr",
         "featured_collection_EUYT4V",
-        "featured_collection_wLhzcB"
+        "featured_collection_VindwP",
+        "featured_collection_CnFTGM",
+        "featured_collection_hxpNgN"
       ],
       "settings": {
         "title": "Latest Collections",
