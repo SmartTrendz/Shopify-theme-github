@@ -239,8 +239,8 @@
         "column_PMcpHw": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "<strong>Personalized Convenience:<\/strong>",
+            "text": "<p>We believe shopping should be as unique as you are. That’s why we’ve crafted a shopping experience that’s tailored to your preferences, offering unparalleled convenience at every turn. Our commitment to understanding and meeting your needs means we go the extra mile to ensure an efficient and personalized journey through our store. With us, every visit is more than a transaction—it’s a seamless adventure in finding exactly what you need, exactly when you need it.<\/p>",
             "link_label": "",
             "link": ""
           }
