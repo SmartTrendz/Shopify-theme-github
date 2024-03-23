@@ -281,7 +281,8 @@
         document.documentElement.classList.add('shopify-design-mode');
       }
     </script>
-  </head>
+  {{ shop.metafields.reviewxpo.global_styles }}
+</head>
 
   <body class="gradient{% if settings.animations_hover_elements != 'none' %} animate--hover-{{ settings.animations_hover_elements }}{% endif %}">
     <a class="skip-to-content-link button visually-hidden" href="#MainContent">
@@ -350,5 +351,22 @@
     {%- if settings.predictive_search_enabled -%}
       <script src="{{ 'predictive-search.js' | asset_url }}" defer="defer"></script>
     {%- endif -%}
-  </body>
+  
+    <!-- ReviewXpo Product Scripts Start -->
+
+    <script>
+        var ReviewXpo = ReviewXpo || {};
+
+        ReviewXpo.productRatings = {{ product.metafields.reviewxpo.rating | default: 'null'}};
+        ReviewXpo.productReviews = {{ product.metafields.reviewxpo.reviews | default: 'null'}};
+    </script>
+
+    <!-- ReviewXpo Product Scripts End -->
+
+    <!-- ReviewXpo Global Scripts Start -->
+
+    {{ shop.metafields.reviewxpo.global_scripts }}
+
+    <!-- ReviewXpo Global Scripts End -->
+</body>
 </html>
