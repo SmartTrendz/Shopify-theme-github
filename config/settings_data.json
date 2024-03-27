@@ -185,9 +185,9 @@
         "settings": {
           "background": "#1c649a",
           "background_gradient": "linear-gradient(285deg, rgba(18, 109, 142, 1) 22%, rgba(186, 183, 186, 1) 52%, rgba(13, 52, 107, 1) 75%)",
-          "text": "#121212",
+          "text": "#ffffff",
           "button": "#1773b0",
-          "button_label": "#dd1d1d",
+          "button_label": "#000000",
           "secondary_button_label": "#121212",
           "shadow": "#121212"
         }
