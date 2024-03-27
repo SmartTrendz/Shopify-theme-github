@@ -1,5 +1,76 @@
 {
   "sections": {
+    "featured_product_mBqhnt": {
+      "type": "featured-product",
+      "blocks": {
+        "text_z9htz9": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "title_gpxwg9": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "price_MJAjWa": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "variant_picker_YV4ta8": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button",
+            "swatch_shape": "circle"
+          }
+        },
+        "quantity_selector_BwbPGx": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "buy_buttons_YMrt3W": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true,
+            "show_gift_card_recipient": true
+          }
+        },
+        "share_XwzniF": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "text_z9htz9",
+        "title_gpxwg9",
+        "price_MJAjWa",
+        "variant_picker_YV4ta8",
+        "quantity_selector_BwbPGx",
+        "buy_buttons_YMrt3W",
+        "share_XwzniF"
+      ],
+      "settings": {
+        "product": "v728-546573-aventus-by-creed-eau-de-parfum-spray-33-oz-men",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "image_banner": {
       "type": "image-banner",
       "blocks": {
@@ -152,6 +223,60 @@
         "padding_bottom": 36
       }
     },
+    "multicolumn_XTT4G6": {
+      "type": "multicolumn",
+      "blocks": {
+        "column_fFrR83": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Smarter Deals:<\/strong>",
+            "text": "<p>Where value meets virtue, and savings shine! Our carefully curated selection offers you more than just products; it’s a smart investment in both your wallet and the world. Discover deals that dazzle with economy and eco-friendliness, handpicked to ensure you make choices that are not only cost-effective but also kind to our planet. Shop with us and experience the joy of smart shopping, where every purchase is a step towards a sustainable future.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_zJWPFh": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/ST-Women-portraitsizesmaller_28dad8b9-1851-4e12-a090-7ca62804ad4f.png",
+            "title": "",
+            "text": "",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "column_PMcpHw": {
+          "type": "column",
+          "settings": {
+            "title": "<strong>Personalized Convenience:<\/strong>",
+            "text": "<p>We believe shopping should be as unique as you are. That’s why we’ve crafted a shopping experience that’s tailored to your preferences, offering unparalleled convenience at every turn. Our commitment to understanding and meeting your needs means we go the extra mile to ensure an efficient and personalized journey through our store. With us, every visit is more than a transaction—it’s a seamless adventure in finding exactly what you need, exactly when you need it.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "column_fFrR83",
+        "column_zJWPFh",
+        "column_PMcpHw"
+      ],
+      "settings": {
+        "title": "The Future of Online shopping",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "shopify:\/\/collections",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collection_list_RKAM6e": {
       "type": "collection-list",
       "blocks": {
@@ -199,77 +324,6 @@
         "padding_bottom": 0
       }
     },
-    "featured_product_mBqhnt": {
-      "type": "featured-product",
-      "blocks": {
-        "text_z9htz9": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "title_gpxwg9": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "price_MJAjWa": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "variant_picker_YV4ta8": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button",
-            "swatch_shape": "circle"
-          }
-        },
-        "quantity_selector_BwbPGx": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "buy_buttons_YMrt3W": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true,
-            "show_gift_card_recipient": true
-          }
-        },
-        "share_XwzniF": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "text_z9htz9",
-        "title_gpxwg9",
-        "price_MJAjWa",
-        "variant_picker_YV4ta8",
-        "quantity_selector_BwbPGx",
-        "buy_buttons_YMrt3W",
-        "share_XwzniF"
-      ],
-      "settings": {
-        "product": "v728-546573-aventus-by-creed-eau-de-parfum-spray-33-oz-men",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "medium",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "video_F3fRw3": {
       "type": "video",
       "settings": {
@@ -290,70 +344,16 @@
       "settings": {
         "include_margins": true
       }
-    },
-    "multicolumn_XTT4G6": {
-      "type": "multicolumn",
-      "blocks": {
-        "column_fFrR83": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Smarter Deals:<\/strong>",
-            "text": "<p>Where value meets virtue, and savings shine! Our carefully curated selection offers you more than just products; it’s a smart investment in both your wallet and the world. Discover deals that dazzle with economy and eco-friendliness, handpicked to ensure you make choices that are not only cost-effective but also kind to our planet. Shop with us and experience the joy of smart shopping, where every purchase is a step towards a sustainable future. 🌱💡<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_zJWPFh": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/ST-Women-portraitsizesmaller_28dad8b9-1851-4e12-a090-7ca62804ad4f.png",
-            "title": "",
-            "text": "",
-            "link_label": "",
-            "link": ""
-          }
-        },
-        "column_PMcpHw": {
-          "type": "column",
-          "settings": {
-            "title": "<strong>Personalized Convenience:<\/strong>",
-            "text": "<p>We believe shopping should be as unique as you are. That’s why we’ve crafted a shopping experience that’s tailored to your preferences, offering unparalleled convenience at every turn. Our commitment to understanding and meeting your needs means we go the extra mile to ensure an efficient and personalized journey through our store. With us, every visit is more than a transaction—it’s a seamless adventure in finding exactly what you need, exactly when you need it.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
-        }
-      },
-      "block_order": [
-        "column_fFrR83",
-        "column_zJWPFh",
-        "column_PMcpHw"
-      ],
-      "settings": {
-        "title": "The Future of Online shopping",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "shopify:\/\/collections",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
+    "featured_product_mBqhnt",
     "image_banner",
     "rich_text_6Bagak",
     "multirow_hzdp79",
+    "multicolumn_XTT4G6",
     "collection_list_RKAM6e",
-    "featured_product_mBqhnt",
     "video_F3fRw3",
-    "1711192248dd090951",
-    "multicolumn_XTT4G6"
+    "1711192248dd090951"
   ]
 }
