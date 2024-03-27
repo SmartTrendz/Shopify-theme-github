@@ -232,7 +232,7 @@
             "title": "<strong>Smarter Deals:<\/strong>",
             "text": "<p>Where value meets virtue, and savings shine! Our carefully curated selection offers you more than just products; it’s a smart investment in both your wallet and the world. Discover deals that dazzle with economy and eco-friendliness, handpicked to ensure you make choices that are not only cost-effective but also kind to our planet. Shop with us and experience the joy of smart shopping, where every purchase is a step towards a sustainable future.<\/p>",
             "link_label": "",
-            "link": ""
+            "link": "shopify:\/\/collections\/all"
           }
         },
         "column_zJWPFh": {
@@ -241,8 +241,8 @@
             "image": "shopify:\/\/shop_images\/ST-Women-portraitsizesmaller_28dad8b9-1851-4e12-a090-7ca62804ad4f.png",
             "title": "",
             "text": "",
-            "link_label": "",
-            "link": ""
+            "link_label": "Shop",
+            "link": "shopify:\/\/collections"
           }
         },
         "column_PMcpHw": {
