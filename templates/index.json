@@ -90,41 +90,43 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/perfume-flowers-blue.png",
             "caption": "Caption",
-            "heading": "",
+            "heading": "2024's Trending Fragrance & Perfume",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
+            "button_label": "EXPLORE",
             "button_link": "shopify:\/\/collections\/2024-trending-cologne-perfume"
           }
         },
         "row_K3BPiD": {
           "type": "row",
           "settings": {
-            "image": "shopify:\/\/shop_images\/1121198204283.jpg",
+            "image": "shopify:\/\/shop_images\/2024-health-beautystock.png",
             "caption": "Caption",
-            "heading": "Row",
+            "heading": "2024's Women's Health and Beauty Collection",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "EXPLORE",
+            "button_link": "shopify:\/\/collections\/2024s-womens-health-and-beauty-collection"
           }
         },
         "row_H9pyBP": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2024HOMEGRADENCOLLECTIOn.png",
             "caption": "Caption",
-            "heading": "Row",
+            "heading": "2024's Home, Garden, & Furniture Collection",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "EXPLORE",
+            "button_link": "shopify:\/\/collections\/2024s-home-garden-furniture-collection"
           }
         },
         "row_kQRPKk": {
           "type": "row",
           "settings": {
+            "image": "shopify:\/\/shop_images\/2024-spring-trends.png",
             "caption": "Caption",
-            "heading": "Row",
+            "heading": "2024's Spring Apparel Collection",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "EXPLORE",
+            "button_link": "shopify:\/\/collections\/2024s-spring-apparel-collection"
           }
         }
       },
