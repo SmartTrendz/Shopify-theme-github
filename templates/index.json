@@ -329,6 +329,23 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "featured_blog_U9dbmW": {
+      "type": "featured-blog",
+      "settings": {
+        "heading": "Featured Blogz",
+        "heading_size": "h1",
+        "blog": "the-future-of-ecommerce",
+        "post_limit": 3,
+        "columns_desktop": 3,
+        "color_scheme": "scheme-1",
+        "show_image": true,
+        "show_date": true,
+        "show_author": false,
+        "show_view_all": true,
+        "padding_top": 8,
+        "padding_bottom": 8
+      }
     }
   },
   "order": [
@@ -338,6 +355,7 @@
     "multirow_hzdp79",
     "multicolumn_XTT4G6",
     "collection_list_RKAM6e",
-    "1711192248dd090951"
+    "1711192248dd090951",
+    "featured_blog_U9dbmW"
   ]
 }
