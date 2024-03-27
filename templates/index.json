@@ -6,8 +6,8 @@
         "text_z9htz9": {
           "type": "text",
           "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
+            "text": "<strong>{{ section.settings.product.vendor }}<\/strong>",
+            "text_style": "body"
           }
         },
         "title_gpxwg9": {
@@ -268,7 +268,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "SHOP",
         "button_link": "shopify:\/\/collections",
         "color_scheme": "",
         "columns_mobile": "1",
