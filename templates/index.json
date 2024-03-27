@@ -1,5 +1,45 @@
 {
   "sections": {
+    "image_banner": {
+      "type": "image-banner",
+      "blocks": {
+        "button": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Collectionz",
+            "button_link_1": "shopify:\/\/collections\/all",
+            "button_style_secondary_1": true,
+            "button_label_2": "Blogz",
+            "button_link_2": "shopify:\/\/blogs\/the-future-of-ecommerce\/elevating-your-ecommerce-experience",
+            "button_style_secondary_2": true
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>Browse the latest trendz<\/strong>",
+            "heading_size": "h0"
+          }
+        }
+      },
+      "block_order": [
+        "button",
+        "heading"
+      ],
+      "settings": {
+        "image_2": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
+        "image_overlay_opacity": 40,
+        "image_height": "small",
+        "desktop_content_position": "bottom-center",
+        "show_text_box": false,
+        "desktop_content_alignment": "center",
+        "color_scheme": "scheme-3",
+        "image_behavior": "ambient",
+        "mobile_content_alignment": "center",
+        "stack_images_on_mobile": false,
+        "show_text_below": false
+      }
+    },
     "featured_product_mBqhnt": {
       "type": "featured-product",
       "blocks": {
@@ -71,88 +111,6 @@
         "padding_bottom": 36
       }
     },
-    "image_banner": {
-      "type": "image-banner",
-      "blocks": {
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Collectionz",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "Blogz",
-            "button_link_2": "shopify:\/\/blogs\/the-future-of-ecommerce\/elevating-your-ecommerce-experience",
-            "button_style_secondary_2": true
-          }
-        },
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>Browse the latest trendz<\/strong>",
-            "heading_size": "h0"
-          }
-        }
-      },
-      "block_order": [
-        "button",
-        "heading"
-      ],
-      "settings": {
-        "image_2": "shopify:\/\/shop_images\/two-people-surfing-in-blue-choppy-water.jpg",
-        "image_overlay_opacity": 40,
-        "image_height": "small",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": false,
-        "desktop_content_alignment": "center",
-        "color_scheme": "scheme-3",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text_6Bagak": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_HzkNMG": {
-          "type": "heading",
-          "settings": {
-            "heading": "<strong>SmartTrendz<\/strong>",
-            "heading_size": "h2"
-          }
-        },
-        "text_qpTKTp": {
-          "type": "text",
-          "settings": {
-            "text": "<p><strong>SmartTrendz is an innovative ecommerce store that’s at the forefront of the digital retail revolution. Embracing the latest in technology and consumer behavior, SmartTrendz offers a seamless shopping experience with a focus on smart, trendy, and sustainable products.<\/strong><\/p><p><strong>SmartTrendz caters to the modern shopper’s desire for convenience, speed, and eco-conscious choices. Whether it’s the latest gadgets, fashion, or home goods, SmartTrendz is the go-to destination for products that fit the lifestyle of savvy consumers looking to make a statement with their purchases.<\/strong><\/p>"
-          }
-        },
-        "button_cpERH6": {
-          "type": "button",
-          "settings": {
-            "button_label": "Trendz",
-            "button_link": "shopify:\/\/collections\/all",
-            "button_style_secondary": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
-        }
-      },
-      "block_order": [
-        "heading_HzkNMG",
-        "text_qpTKTp",
-        "button_cpERH6"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "",
-        "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "multirow_hzdp79": {
       "type": "multirow",
       "blocks": {
@@ -221,6 +179,48 @@
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "rich_text_6Bagak": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_HzkNMG": {
+          "type": "heading",
+          "settings": {
+            "heading": "<strong>SmartTrendz<\/strong>",
+            "heading_size": "h2"
+          }
+        },
+        "text_qpTKTp": {
+          "type": "text",
+          "settings": {
+            "text": "<p><strong>SmartTrendz is an innovative ecommerce store that’s at the forefront of the digital retail revolution. Embracing the latest in technology and consumer behavior, SmartTrendz offers a seamless shopping experience with a focus on smart, trendy, and sustainable products.<\/strong><\/p><p><strong>SmartTrendz caters to the modern shopper’s desire for convenience, speed, and eco-conscious choices. Whether it’s the latest gadgets, fashion, or home goods, SmartTrendz is the go-to destination for products that fit the lifestyle of savvy consumers looking to make a statement with their purchases.<\/strong><\/p>"
+          }
+        },
+        "button_cpERH6": {
+          "type": "button",
+          "settings": {
+            "button_label": "Trendz",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_HzkNMG",
+        "text_qpTKTp",
+        "button_cpERH6"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     },
     "multicolumn_XTT4G6": {
@@ -347,10 +347,10 @@
     }
   },
   "order": [
-    "featured_product_mBqhnt",
     "image_banner",
-    "rich_text_6Bagak",
+    "featured_product_mBqhnt",
     "multirow_hzdp79",
+    "rich_text_6Bagak",
     "multicolumn_XTT4G6",
     "collection_list_RKAM6e",
     "video_F3fRw3",
