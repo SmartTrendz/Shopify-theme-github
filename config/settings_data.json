@@ -57,7 +57,7 @@
     "collection_card_shadow_vertical_offset": 6,
     "collection_card_shadow_blur": 25,
     "blog_card_style": "card",
-    "blog_card_image_padding": 0,
+    "blog_card_image_padding": 20,
     "blog_card_text_alignment": "left",
     "blog_card_color_scheme": "scheme-1",
     "blog_card_border_thickness": 3,
