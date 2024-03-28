@@ -46,14 +46,14 @@
         "heading_HzkNMG": {
           "type": "heading",
           "settings": {
-            "heading": "<strong>SmartTrendz<\/strong>",
+            "heading": "<strong>Weekly Trendz Report<\/strong>",
             "heading_size": "h2"
           }
         },
         "text_qpTKTp": {
           "type": "text",
           "settings": {
-            "text": "<p><strong>SmartTrendz is an innovative ecommerce store that’s at the forefront of the digital retail revolution. Embracing the latest in technology and consumer behavior, SmartTrendz offers a seamless shopping experience with a focus on smart, trendy, and sustainable products.<\/strong><\/p><p><strong>SmartTrendz caters to the modern shopper’s desire for convenience, speed, and eco-conscious choices. Whether it’s the latest gadgets, fashion, or home goods, SmartTrendz is the go-to destination for products that fit the lifestyle of savvy consumers looking to make a statement with their purchases.<\/strong><\/p>"
+            "text": ""
           }
         },
         "text_3aGYKB": {
@@ -85,8 +85,8 @@
         "content_alignment": "center",
         "color_scheme": "",
         "full_width": false,
-        "padding_top": 40,
-        "padding_bottom": 52
+        "padding_top": 8,
+        "padding_bottom": 8
       }
     },
     "featured_product_mBqhnt": {
