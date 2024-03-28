@@ -56,10 +56,16 @@
             "text": "<p><strong>SmartTrendz is an innovative ecommerce store that’s at the forefront of the digital retail revolution. Embracing the latest in technology and consumer behavior, SmartTrendz offers a seamless shopping experience with a focus on smart, trendy, and sustainable products.<\/strong><\/p><p><strong>SmartTrendz caters to the modern shopper’s desire for convenience, speed, and eco-conscious choices. Whether it’s the latest gadgets, fashion, or home goods, SmartTrendz is the go-to destination for products that fit the lifestyle of savvy consumers looking to make a statement with their purchases.<\/strong><\/p>"
           }
         },
+        "text_3aGYKB": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
         "button_cpERH6": {
           "type": "button",
           "settings": {
-            "button_label": "Trendz",
+            "button_label": "Weekly Trendz Report",
             "button_link": "shopify:\/\/collections\/all",
             "button_style_secondary": true,
             "button_label_2": "",
@@ -71,6 +77,7 @@
       "block_order": [
         "heading_HzkNMG",
         "text_qpTKTp",
+        "text_3aGYKB",
         "button_cpERH6"
       ],
       "settings": {
