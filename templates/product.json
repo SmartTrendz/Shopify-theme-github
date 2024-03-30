@@ -39,6 +39,11 @@
             "show_gift_card_recipient": true
           }
         },
+        "editorify_product_reviews_editorify_product_review_list_EXfcFF": {
+          "type": "shopify:\/\/apps\/editorify-product-reviews\/blocks\/editorify_product_review_list\/f0f9fd22-9991-4d3f-8173-3b8c4b7c192f",
+          "settings": {
+          }
+        },
         "description": {
           "type": "description",
           "settings": {
@@ -58,6 +63,7 @@
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
+        "editorify_product_reviews_editorify_product_review_list_EXfcFF",
         "description",
         "share"
       ],
