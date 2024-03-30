@@ -178,6 +178,12 @@
         "disabled": false,
         "settings": {
         }
+      },
+      "14167878431489293998": {
+        "type": "shopify:\/\/apps\/editorify-product-reviews\/blocks\/editorify_load\/f0f9fd22-9991-4d3f-8173-3b8c4b7c192f",
+        "disabled": false,
+        "settings": {
+        }
       }
     },
     "color_schemes": {
