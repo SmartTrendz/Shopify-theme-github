@@ -1,4 +1,4 @@
-{{ 'component-card.css' | asset_url | stylesheet_tag }}
+<script type="text/javascript">{% for product in section.settings.collection.products limit: section.settings.products_to_show %}window.editorifyFeaturedProducts.push("{{ product.id }}");{% endfor %}</script> {{ 'component-card.css' | asset_url | stylesheet_tag }}
 {{ 'component-price.css' | asset_url | stylesheet_tag }}
 
 {{ 'component-slider.css' | asset_url | stylesheet_tag }}
